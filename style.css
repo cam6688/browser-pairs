@@ -140,7 +140,7 @@ body {
 
 /* The .button class is appled to the #install, #gamePlay, and #gameAgain buttons */
 .button {
-  background: white;
+  background: green;
   border-radius: 5px;
   font-size: 2em;
   padding: 10px;
@@ -151,8 +151,8 @@ body {
 
 /* :hover styles are applied when the user's mouse hovers over the element */
 .button:hover {
-  background: #F26522 !important;
-  color: #fff;
+  background: #38CFFD !important;
+  color: #ccc;
   cursor: pointer;
 }
 
@@ -209,7 +209,7 @@ body {
 }
 
 #result {
-  background: white;
+  background: green;
   margin: 150px auto 0;
   width: 60%;
   border-radius: 5px;
