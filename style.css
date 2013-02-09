@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(./http://www.tumblr.com/tagged/baby%20corgi) no-repeat; background-size: contain;}
+.fx {background: url(./http://mynewsviews.com/pictures_german_shepherd_puppies) no-repeat; background-size: contain;}
+.cr {background: url(./http://en.wikipedia.org/wiki/File:Gadget_the_pug_expressive_eyes.jpg) no-repeat; background-size: contain;}
+.sf {background: url(./http://www.wildmadness.com/exercise-grooming-and-facts-of-golden-retrievers-dog-breed/) no-repeat; background-size: contain;}
+.op {background: url(./http://www.chinchillachronicles.com/chinchilla_genetics.html) no-repeat; background-size: contain;}
+.ns {background: url(./http://www.whimsys-menagerie.com/2011.htm) no-repeat; background-size: contain;}
+.tb {background: url(./http://biologicalbeachcombing.blogspot.com/2012_07_01_archive.html) no-repeat; background-size: contain;}
+.fm {background: url(./http://moostagndude.hubpages.com/hub/chinchilladustbath) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
