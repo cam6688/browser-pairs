@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./http://www.tumblr.com/tagged/baby%20corgi) no-repeat; background-size: contain;}
-.fx {background: url(./http://mynewsviews.com/pictures_german_shepherd_puppies) no-repeat; background-size: contain;}
-.cr {background: url(./http://en.wikipedia.org/wiki/File:Gadget_the_pug_expressive_eyes.jpg) no-repeat; background-size: contain;}
-.sf {background: url(./http://www.wildmadness.com/exercise-grooming-and-facts-of-golden-retrievers-dog-breed/) no-repeat; background-size: contain;}
-.op {background: url(./http://www.chinchillachronicles.com/chinchilla_genetics.html) no-repeat; background-size: contain;}
-.ns {background: url(./http://www.whimsys-menagerie.com/2011.htm) no-repeat; background-size: contain;}
-.tb {background: url(./http://biologicalbeachcombing.blogspot.com/2012_07_01_archive.html) no-repeat; background-size: contain;}
-.fm {background: url(./http://moostagndude.hubpages.com/hub/chinchilladustbath) no-repeat; background-size: contain;}
+.ie {background: url(./http://s3.hubimg.com/u/2586446_f260.jpg) no-repeat; background-size: contain;}
+.fx {background: url(./http://24.media.tumblr.com/tumblr_lzs1cll0tL1r8ww8yo1_500.jpg) no-repeat; background-size: contain;}
+.cr {background: url(./http://img.youtube.com/vi/hKy0PgrmjcY/0.jpg) no-repeat; background-size: contain;}
+.sf {background: url(./http://upload.wikimedia.org/wikipedia/commons/4/47/Gadget_the_pug_expressive_eyes.jpg) no-repeat; background-size: contain;}
+.op {background: url(./http://www.spca.bc.ca/assets/images/news--events/news-briefs/20100803-news-fat-cat-simba-1.jpg) no-repeat; background-size: contain;}
+.ns {background: url(./http://cdn-www.dailypuppy.com/media/dogs/anonymous/dudley_pug_beagle_puggle_03.jpg_w450.jpg) no-repeat; background-size: contain;}
+.tb {background: url(./http://fun-gallery.com/wp-content/uploads/2010/10/Hamster-Eating-Broccoli.jpg) no-repeat; background-size: contain;}
+.fm {background: url(./http://www.picgifs.com/avatars/animals/hamster/avatars-hamster-598063.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
